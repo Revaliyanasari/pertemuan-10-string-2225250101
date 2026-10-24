@@ -1,0 +1,16 @@
+```gitignore
+# File cache Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Pengaturan lokal VS Code
+.vscode/
+
+# File sistem Windows
+Thumbs.db
+Desktop.ini
+```
