@@ -17,14 +17,14 @@ pertemuan-10-string-2225250101/
 ├── README.md
 ├── .gitignore
 ├── latihan/
-| └── 01_dasar_string.py
-| └── 02_indeks_slicing.py
-| └── 03_method_string.py
-| └── 04_bersihkan_teks.py
-| └── 05_split_join.py
-| └── 06_pencarian_kata.py
+|    └── 01_dasar_string.py
+|    └── 02_indeks_slicing.py
+|    └── 03_method_string.py
+|    └── 04_bersihkan_teks.py
+|    └── 05_split_join.py
+|    └── 06_pencarian_kata.py
 └── tugas/
-    └── normalisasi_data_mahasiswa.py
+     └── normalisasi_data_mahasiswa.py
 ```
 
 ## 3. Cara Menjalankan Program
